@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T21:21:03 IST" name="Default suite" finished-at="2023-10-06T21:21:48 IST" duration-ms="45334">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T21:21:03 IST" name="Default test" finished-at="2023-10-06T21:21:48 IST" duration-ms="45334">
+      <class name="com.qa.testcases.LoginTC">
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:03 IST" name="initilizeDriver" finished-at="2023-10-06T21:21:10 IST" duration-ms="7728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method is-config="true" signature="initializeAdminLogin()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:10 IST" name="initializeAdminLogin" finished-at="2023-10-06T21:21:10 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAdminLogin -->
+        <test-method signature="verifyValidLogin()[pri:1, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:10 IST" name="verifyValidLogin" finished-at="2023-10-06T21:21:11 IST" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:11 IST" name="close" finished-at="2023-10-06T21:21:12 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:12 IST" name="initilizeDriver" finished-at="2023-10-06T21:21:19 IST" duration-ms="7029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method signature="verifyInvalidLogin()[pri:2, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:19 IST" name="verifyInvalidLogin" finished-at="2023-10-06T21:21:22 IST" duration-ms="3059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="initializeAdminLogin()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:19 IST" name="initializeAdminLogin" finished-at="2023-10-06T21:21:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAdminLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:22 IST" name="close" finished-at="2023-10-06T21:21:22 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:22 IST" name="initilizeDriver" finished-at="2023-10-06T21:21:29 IST" duration-ms="7175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method is-config="true" signature="initializeAdminLogin()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:29 IST" name="initializeAdminLogin" finished-at="2023-10-06T21:21:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAdminLogin -->
+        <test-method signature="verifyValidPlacementOfficerLogin()[pri:3, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:29 IST" name="verifyValidPlacementOfficerLogin" finished-at="2023-10-06T21:21:29 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidPlacementOfficerLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:29 IST" name="close" finished-at="2023-10-06T21:21:30 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:30 IST" name="initilizeDriver" finished-at="2023-10-06T21:21:38 IST" duration-ms="8018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method is-config="true" signature="initializeAdminLogin()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:38 IST" name="initializeAdminLogin" finished-at="2023-10-06T21:21:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAdminLogin -->
+        <test-method signature="verifyValidTrainerLogin()[pri:4, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:38 IST" name="verifyValidTrainerLogin" finished-at="2023-10-06T21:21:38 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidTrainerLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:38 IST" name="close" finished-at="2023-10-06T21:21:38 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:38 IST" name="initilizeDriver" finished-at="2023-10-06T21:21:46 IST" duration-ms="7824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method is-config="true" signature="initializeAdminLogin()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:46 IST" name="initializeAdminLogin" finished-at="2023-10-06T21:21:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAdminLogin -->
+        <test-method signature="verifyLoginWithoutUsernameAndPassword()[pri:5, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:46 IST" name="verifyLoginWithoutUsernameAndPassword" finished-at="2023-10-06T21:21:48 IST" duration-ms="1835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithoutUsernameAndPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:48 IST" name="close" finished-at="2023-10-06T21:21:48 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.LoginTC@3c41ed1d]" started-at="2023-10-06T21:21:48 IST" name="TearDown" finished-at="2023-10-06T21:21:48 IST" duration-ms="46" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[invalid session id
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [01897cc6396002f8c15858dd6e88a779, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.55, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52490}, msedge: {msedgedriverVersion: 117.0.2045.55 (50f62b8a7655..., userDataDir: C:\Users\priya\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52490/devtoo..., se:cdpVersion: 117.0.2045.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01897cc6396002f8c15858dd6e88a779]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [01897cc6396002f8c15858dd6e88a779, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.55, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52490}, msedge: {msedgedriverVersion: 117.0.2045.55 (50f62b8a7655..., userDataDir: C:\Users\priya\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52490/devtoo..., se:cdpVersion: 117.0.2045.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01897cc6396002f8c15858dd6e88a779
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:419)
+at com.qa.base.BaseClass.TearDown(BaseClass.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:410)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.testcases.LoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
